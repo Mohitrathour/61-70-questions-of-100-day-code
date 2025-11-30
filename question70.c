@@ -1,3 +1,4 @@
+//Q70: Rotate an array to the right by k positions.
 #include <stdio.h>
 void reverse(int arr[], int start, int end) {
     while (start < end) 
