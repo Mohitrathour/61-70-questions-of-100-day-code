@@ -1,3 +1,4 @@
+//Q63: Merge two arrays.
 #include<stdio.h>
 int main()
 {
